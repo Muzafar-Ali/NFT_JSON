@@ -1,9 +1,9 @@
 {
-    "tokens"[
+    "tokens":[
         {
             "idOfToken":0,
-            "details":"picture of flower",
-            "imageURL":"",
+            "details":"good Morning",
+            "imageURL":"https://github.com/Muzafar-Ali/NFT_JSON/blob/main/PICS/goodmorning.jpg"
 
         }
     ]
