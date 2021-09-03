@@ -1,14 +1,14 @@
 {
     "tokensDetails":[
         {
-            "idOfToken":0,
+            "id":0,
             "title":"good Morning",
             "imageURL":"https://github.com/Muzafar-Ali/NFT_JSON/blob/main/PICS/goodmorning.jpg"
 
         },
         
         {
-            "idOfToken":1,
+            "id":1,
             "title":"Picture of Cute panda and rabbit",
             "imageURL":"https://github.com/Muzafar-Ali/NFT_JSON/blob/main/PICS/cuteanimal.jpg"
 
