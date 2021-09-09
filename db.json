@@ -85,7 +85,7 @@
             "id":10,
             "title":"Nice painting",
             "imageURL":"https://github.com/Muzafar-Ali/NFT_JSON/blob/main/PICS/painting.jpg",
-            "remarks":"so natural",
+            "remarks":"so natural.",
             "metadeta_json_server":"https://my-json-server.typicode.com/Muzafar-Ali/NFT_JSON/tokensDetails/10"
 
         }
