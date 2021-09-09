@@ -25,8 +25,10 @@
             "metadeta_json_server":"https://my-json-server.typicode.com/Muzafar-Ali/NFT_JSON/tokensDetails/3"
 
         },
+
         
-        }
+        
+        {
             "id":4,
             "title":"good Morning",
             "imageURL":"https://github.com/Muzafar-Ali/NFT_JSON/blob/main/PICS/goodmorning.jpg",
@@ -51,6 +53,7 @@
             "metadeta_json_server":"https://my-json-server.typicode.com/Muzafar-Ali/NFT_JSON/tokensDetails/6"
 
         },
+
         {
             "id":7,
             "title":"Nice painting",
@@ -59,6 +62,7 @@
             "metadeta_json_server":"https://my-json-server.typicode.com/Muzafar-Ali/NFT_JSON/tokensDetails/7"
 
         },
+        
         {
             "id":8,
             "title":"Nice painting",
@@ -67,6 +71,7 @@
             "metadeta_json_server":"https://my-json-server.typicode.com/Muzafar-Ali/NFT_JSON/tokensDetails/8"
 
         },
+        
         {
             "id":9,
             "title":"Nice painting",
@@ -75,6 +80,7 @@
             "metadeta_json_server":"https://my-json-server.typicode.com/Muzafar-Ali/NFT_JSON/tokensDetails/9"
 
         },
+        
         {
             "id":10,
             "title":"Nice painting",
@@ -82,7 +88,7 @@
             "remarks":"so natural",
             "metadeta_json_server":"https://my-json-server.typicode.com/Muzafar-Ali/NFT_JSON/tokensDetails/10"
 
-        },
+        }
         
     ]
 }
